@@ -1,0 +1,10 @@
+﻿  ConsoleApplication1.cpp
+e:\学习\introai\yangliu\project\271othellogameproject\271othellogameproject\othellogamestate.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+e:\学习\introai\yangliu\project\271othellogameproject\271othellogameproject\othelloaicyy.hpp(71): warning C4244: “=”: 从“__int64”转换到“int”，可能丢失数据
+e:\学习\introai\yangliu\project\271othellogameproject\271othellogameproject\othelloaicyy.hpp(145): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  正在生成代码
+  554 of 554 functions (100.0%) were compiled.
+    15 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  271OthelloGameProject.vcxproj -> E:\学习\introai\YangLiu\Project\271OthelloGameProject\x64\Release\271OthelloGameProject.exe

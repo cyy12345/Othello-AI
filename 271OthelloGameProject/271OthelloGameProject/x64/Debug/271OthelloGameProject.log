@@ -1,0 +1,4 @@
+﻿  ConsoleApplication1.cpp
+c:\users\80480\source\repos\271othellogameproject\271othellogameproject\othelloaicyy.hpp(71): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+c:\users\80480\source\repos\271othellogameproject\271othellogameproject\othelloaicyy.hpp(145): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  271OthelloGameProject.vcxproj -> C:\Users\80480\source\repos\271OthelloGameProject\x64\Debug\271OthelloGameProject.exe
